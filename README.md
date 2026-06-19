@@ -6,7 +6,8 @@
 
 ### 🛰️ Technical Stack & Pipeline # DayZTacticalVision: Advanced Computer Vision & Ballistic Kinematics Framework for Open-World Environments
 
-**DayZTacticalVision** is a high-performance, non-intrusive situational awareness and predictive analytics suite built using custom-trained neural networks. It is specifically optimized to analyze the vast, high-distance terrain environments of DayZ (including Chernarus and Livonia maps), providing real-time spatial analytics, dynamic vector tracking, and trajectory alignment.
+**DayZAssistantAI
+** is a high-performance, non-intrusive situational awareness and predictive analytics suite built using custom-trained neural networks. It is specifically optimized to analyze the vast, high-distance terrain environments of DayZ (including Chernarus and Livonia maps), providing real-time spatial analytics, dynamic vector tracking, and trajectory alignment.
 
 > **Legal & Educational Disclaimer:** *This repository is maintained strictly for academic research, human-computer interaction analysis, and accessibility purposes. It does not manipulate game memory, modify game files, or inject code into the game client. Users are responsible for complying with the game's End User License Agreement (EULA).*
 
