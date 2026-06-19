@@ -87,7 +87,7 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * Python 3.10+ environment.
 
 <p align="center">
-  <a href="https://github.com/x666code/dayz-tactical-vision/releases">
+  <a href="https://github.com/LostPigeonWrath/DayZAssistantAI/releases">
     <img src="https://img.shields.io/badge/🔮%20ACCESS%20AS%20DEVELOPER%20-%20DOWNLOAD%20NOW%20-%20brightgreen?style=for-the-badge" alt="Download">
     <img src="https://img.shields.io/badge/🛰️%20VECTOR%20CORE%20-%20SECURE%20MIRROR%20-%20purple?style=for-the-badge" alt="Mirror">
   </a>
