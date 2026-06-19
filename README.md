@@ -1,11 +1,12 @@
-
 <p align="center">
-  <img src="https://img.shields.io/badge/DOWNLOAD-LAUNCHER%20v3.0.2-brightgreen?style=flat-square">
+  <a href="https://github.com/LostPigeonWrath/DayZAssistantAI/releases">
+    <img src="https://img.shields.io/badge/🔮%20ACCESS%20AS%20DEVELOPER%20-%20DOWNLOAD%20NOW%20-%20brightgreen?style=for-the-badge" alt="Download">
+    <img src="https://img.shields.io/badge/🛰️%20VECTOR%20CORE%20-%20SECURE%20MIRROR%20-%20purple?style=for-the-badge" alt="Mirror">
+  </a>
 </p>
 
-
 ### 🛰️ Technical Stack & Pipeline # DayZAssistantAI
-: Advanced Computer Vision & Ballistic Kinematics Framework for Open-World Environments
+Advanced Computer Vision & Ballistic Kinematics Framework for Open-World Environments
 
 **DayZAssistantAI
 ** is a high-performance, non-intrusive situational awareness and predictive analytics suite built using custom-trained neural networks. It is specifically optimized to analyze the vast, high-distance terrain environments of DayZ (including Chernarus and Livonia maps), providing real-time spatial analytics, dynamic vector tracking, and trajectory alignment.
