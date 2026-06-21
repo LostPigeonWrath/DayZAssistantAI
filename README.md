@@ -121,7 +121,7 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * **Fault-Tolerant Diagnostics:** Real-time execution logging backed by a dedicated telemetry verification routine to ensure optimal resource distribution.
 
 
-#dayz-game, #computer-vision, #object-detection, #pytorch, #yolov8, #ballistics-solver, #kinematics, #survival-games, #cuda-acceleration, #game-analytics
+dayz-game, computer-vision, object-detection, pytorch, yolov8, ballistics-solver, kinematics, survival-games, cuda-acceleration, game-analytics, aim-assist
 ---
 
 <!-- update: A -->
