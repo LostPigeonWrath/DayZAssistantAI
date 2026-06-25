@@ -124,4 +124,4 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 dayz-game, computer-vision, object-detection, pytorch, yolov8, ballistics-solver, kinematics, survival-games, cuda-acceleration, game-analytics, aim-assist
 ---
 
-<!-- update: B -->
+<!-- update: A -->
